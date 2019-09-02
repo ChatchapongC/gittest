@@ -2,4 +2,5 @@
 | command |
 |:-----|
 |git merge|
+|git pull|
 ---
