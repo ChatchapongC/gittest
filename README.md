@@ -3,4 +3,5 @@
 |:-----|
 |git merge|
 |git pull|
+|git fetch|
 ---
