@@ -1,4 +1,4 @@
-##Testing merge on git hub
+## Testing merge on git hub
 | command |
 |:-----|
 |git merge|
